@@ -289,7 +289,7 @@ func TestCreateAccountAPI(t *testing.T) {
 
 }
 
-func TestListAccountAPI(t *testing.T) {
+func TestListAccountsAPI(t *testing.T) {
 
 	user, _ := randomUser(t)
 
